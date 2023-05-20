@@ -1,0 +1,13 @@
+
+xem các branch: git branch 
+tạo mới : git branch "tên"
+di chuyển sang branch khác: git checkout "ten"
+xóa branch: $ git branch -d branch_name
+
+git add : add file vào trạng thái chờ
+git commit: đưa file vào vùng sẵn sàng push
+git log : xem lịch sử commit
+
+git remote - v
+git remote add "ten gi day" + duong link
+git remote rename "ten" "ten khac"
